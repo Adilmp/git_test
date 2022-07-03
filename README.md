@@ -1,3 +1,3 @@
 # git_test
-my second gthub repo
+my second github repo
 Hello Odin!
